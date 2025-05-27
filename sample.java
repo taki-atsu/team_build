@@ -2,13 +2,13 @@ import javax.swing.*;
 import java.awt.*;
 import java.util.Scanner;
 
-public class Sample {
+public class sample {
 
     // 画像表示用のフレームを作るメソッド
     public static void showImageWindow() {
         JFrame frame = new JFrame("画像表示");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(400, 300);
+        frame.setSize(2000, 4000);
         frame.setLocationRelativeTo(null);
 
         // 画像ファイルのパスを指定してください
