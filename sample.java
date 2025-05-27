@@ -1,10 +1,10 @@
 public class sample {
     public static void main(String[] args) {
-        String word_a = "ありがたやありがたや";
-        String word_i = "いつもの朝とは様子が違う";
+        String word_na= "ありがたやありがたや";
+        String word_ni = "２千年前の記憶が蘇る、、";
         String word_nu = "抜き足差し足忍び足";
-        String word_e = "駅で急に待ち合わせ。慌てて準備して";
-        String word_o = "温泉旅行に出発だ！";
+        String word_ne = "駅で急に待ち合わせ。慌てて準備して";
+        String word_no = "のんびりと過ごして楽しかった";
 
         System.out.println("あ：" + word_a);
         System.out.println("い：" + word_i);
