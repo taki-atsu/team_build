@@ -3,7 +3,7 @@ public class sample {
         String word_na= "ありがたやありがたや";
         String word_ni = "２千年前の記憶が蘇る、、";
         String word_nu = "抜き足差し足忍び足";
-        String word_ne = "駅で急に待ち合わせ。慌てて準備して";
+        String word_ne = "ねぇねぇ、一緒にねるねるねるねのうえでおねんねしない？";
         String word_no = "のんびりと過ごして楽しかった";
 
         System.out.println("あ：" + word_a);
