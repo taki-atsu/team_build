@@ -24,7 +24,7 @@ public class sample {
         String word_na = "「なあなあ、さやって知ってる？」";
         String word_ni = "２千年前の記憶が蘇る、、";
         String word_nu = "濡れたあの子に傘をさす";
-        String word_ne = "「ねぇねぇ、一緒にねるねるねるねのうえでおねんねしない？」";
+        String word_ne = "ねるねるねるねのうえでねころがりねばねば納豆をねりねりした毎日";
         String word_no = "のんびりと過ごして楽しかった";
 
         Scanner sc = new Scanner(System.in);
