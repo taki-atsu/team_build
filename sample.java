@@ -4,7 +4,7 @@ public class sample {
         String word_ni = "２千年前の記憶が蘇る、、";
         String word_nu = "濡れたあの子に傘をさす";
         String word_ne = "ねぇねぇ、一緒にねるねるねるねのうえでおねんねしない？";
-        String word_no = "のんびりと過ごして楽しかった";
+        String word_no = "昇る太陽のほうを目指して";
 
         System.out.println("あ：" + word_na);
         System.out.println("い：" + word_ni);
