@@ -1,14 +1,14 @@
 public class sample {
     public static void main(String[] args) {
-        String word_a = "朝から驚きの連続だ";
-        String word_i = "いつもの朝とは様子が違う";
-        String word_u = "嬉しい知らせが飛び込んできた";
-        String word_e = "ねぇねぇ、一緒にねるねるねるねのうえでおねんねしない？";
-        String word_o = "温泉旅行に出発だ！";
+        String word_na= "ありがたやありがたや";
+        String word_ni = "２千年前の記憶が蘇る、、";
+        String word_nu = "抜き足差し足忍び足";
+        String word_ne = "ねぇねぇ、一緒にねるねるねるねのうえでおねんねしない？";
+        String word_no = "のんびりと過ごして楽しかった";
 
         System.out.println("あ：" + word_a);
         System.out.println("い：" + word_i);
-        System.out.println("う：" + word_u);
+        System.out.println("ぬ：" + word_nu);
         System.out.println("え：" + word_e);
         System.out.println("お：" + word_o);
     }
