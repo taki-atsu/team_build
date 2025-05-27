@@ -6,10 +6,10 @@ public class sample {
         String word_ne = "ねぇねぇ、一緒にねるねるねるねのうえでおねんねしない？";
         String word_no = "のんびりと過ごして楽しかった";
 
-        System.out.println("あ：" + word_a);
-        System.out.println("い：" + word_i);
+        System.out.println("あ：" + word_na);
+        System.out.println("い：" + word_ni);
         System.out.println("ぬ：" + word_nu);
-        System.out.println("え：" + word_e);
-        System.out.println("お：" + word_o);
+        System.out.println("え：" + word_ne);
+        System.out.println("お：" + word_no);
     }
 }
