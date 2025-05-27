@@ -2,7 +2,7 @@ public class sample {
     public static void main(String[] args) {
         String word_na= "ありがたやありがたや";
         String word_ni = "２千年前の記憶が蘇る、、";
-        String word_nu = "抜き足差し足忍び足";
+        String word_nu = "濡れたあの子に傘をさす";
         String word_ne = "ねぇねぇ、一緒にねるねるねるねのうえでおねんねしない？";
         String word_no = "のんびりと過ごして楽しかった";
 
