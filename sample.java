@@ -1,15 +1,15 @@
 public class sample {
     public static void main(String[] args) {
         String word_na= "ありがたやありがたや";
-        String word_ni = "ニンジンがバナナに告白したら、トマトが好きだと言われた";
-        String word_nu = "嬉しい知らせが飛び込んできた";
-        String word_ne = "駅で急に待ち合わせ。慌てて準備して";
-        String word_no = "ののかちゃんの一発芸";
+        String word_ni = "２千年前の記憶が蘇る、、";
+        String word_nu = "濡れたあの子に傘をさす";
+        String word_ne = "ねぇねぇ、一緒にねるねるねるねのうえでおねんねしない？";
+        String word_no = "のんびりと過ごして楽しかった";
 
-        System.out.println("な：" + word_na);
-        System.out.println("に：" + word_ni);
+        System.out.println("あ：" + word_na);
+        System.out.println("い：" + word_ni);
         System.out.println("ぬ：" + word_nu);
-        System.out.println("ね：" + word_ne);
-        System.out.println("の：" + word_no);
+        System.out.println("え：" + word_ne);
+        System.out.println("お：" + word_no);
     }
 }
