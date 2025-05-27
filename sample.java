@@ -12,7 +12,7 @@ public class sample {
         frame.setLocationRelativeTo(null);
 
         // 画像ファイルのパスを指定してください
-        ImageIcon icon = new ImageIcon("../image.jpg");
+        ImageIcon icon = new ImageIcon("image.jpg");
 
         JLabel label = new JLabel(icon);
         frame.add(label);
